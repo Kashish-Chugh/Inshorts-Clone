@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background: black;
+  width: 100%;
+  flex-direction: column;
+}
+
+.intro {
+  color: white;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.intro a {
+  text-decoration: none;
+  color: cadetblue;
+}
+
+.footer hr {
+  color: white;
+  width: 95%;
+}

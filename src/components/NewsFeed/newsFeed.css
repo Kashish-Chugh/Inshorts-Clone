@@ -1,0 +1,28 @@
+.download-message {
+  display: flex;
+  flex-direction: row;
+  height: 48px;
+  margin: 10px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  align-items: center;
+  flex: 1;
+  width: 100%;
+  background: #f44336;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.download-message span {
+  flex: 0.8;
+  padding: 13px 48px;
+  padding-left: 48px;
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+@media (max-width: 995px) {
+  .download-message {
+    display: none;
+  }
+}
