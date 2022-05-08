@@ -1,6 +1,6 @@
 # React Inshorts Clone
 
-# ![React Inshorts Clone](https://github.com/piyush-eon/react-news-app-inshorts-clone/blob/master/public/1.png)
+# ![React Inshorts Clone](https://github.com/Kashish-Chugh/Inshorts-Clone/blob/master/public/1.png)
 
 <table>
 <tr>
@@ -17,17 +17,17 @@ News api doesn't allow you to fetch the api from a deployed site. You can fork t
 
 ## Demo
 
-Here is a working live demo : https://piyush-eon.github.io/react-news-app-inshorts-clone/
+Here is a working live demo : https://kashish-chugh.github.io/Inshorts-Clone/
 
 ## Site
 
 ### Landing Page
 
-![](https://github.com/piyush-eon/react-news-app-inshorts-clone/blob/master/public/1.png)
+![](https://github.com/Kashish-Chugh/Inshorts-Clone/blob/master/public/1.png)
 
 ### Choose from different Categories
 
-![](https://github.com/piyush-eon/react-news-app-inshorts-clone/blob/master/public/2.png)
+![](https://github.com/Kashish-Chugh/Inshorts-Clone/blob/master/public/2.png)
 
 ## Built with
 
